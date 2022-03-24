@@ -1,1 +1,1 @@
-# renovate-config
+# Renovate Config
