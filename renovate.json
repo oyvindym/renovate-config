@@ -1,11 +1,3 @@
 {
-  "extends": ["config:base"],
-  "automerge": true,
-  "major": {
-    "automerge": false
-  },
-  "masterIssue": true,
-  "automergeType": "branch",
-  "timezone": "Europe/Oslo",
-  "stabilityDays": 3
+  "extends": ["github>oyvindym/renovate-config:default"]
 }
